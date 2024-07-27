@@ -178,12 +178,12 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Dynamic React Table like AG grid",
+      "Dynamic React Table like AG grid - I",
     name: "Rahul Singh Thakur",
     designation: "A",
     company: "Medium Story",
     image: my,
-    link:""
+    link:"https://medium.com/@rahulsthakur19/dynamic-react-table-with-features-like-ag-grid-i-27f6a395a11e"
   },
   // {
   //   testimonial:
